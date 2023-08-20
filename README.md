@@ -5,19 +5,19 @@ Bem-vindo ao repositório dos desafios de código do Santander Bootcamp 2023 - F
 ## Desafios em JavaScript
 
 1. **Desafio Full Stack - JavaScript: Equilibrando o Saldo**
-   - Arquivo: `001.js`
+   - Arquivo: [001.js](https://github.com/CarlosEduardoLemos/Desafios-Bootcamp2023/blob/main/JavaScript/001.js)
 
 2. **Desafio Full Stack - JavaScript: Organizando Seus Ativos**
-   - Arquivo: `002.js`
+   - Arquivo: [002.js](https://github.com/CarlosEduardoLemos/Desafios-Bootcamp2023/blob/main/JavaScript/002.js)
 
 3. **Desafio Full Stack - JavaScript: Condicionamento Rico**
-   - Arquivo: `003.js`
+   - Arquivo: [003.js](https://github.com/CarlosEduardoLemos/Desafios-Bootcamp2023/blob/main/JavaScript/003.js)
 
 4. **Desafio Full Stack - JavaScript: Juros Compostos**
-   - Arquivo: `004.js`
+   - Arquivo: [004.js](https://github.com/CarlosEduardoLemos/Desafios-Bootcamp2023/blob/main/JavaScript/004.js)
 
 5. **Desafio Full Stack - JavaScript: O Grande Depósito**
-   - Arquivo: `005.js`
+   - Arquivo: [005.js](https://github.com/CarlosEduardoLemos/Desafios-Bootcamp2023/blob/main/JavaScript/005.js)
 
 ## Desafios em Java
 
